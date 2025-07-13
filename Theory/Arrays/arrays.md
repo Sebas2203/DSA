@@ -10,7 +10,3 @@ console.log(array);
 ```
 
 Are used by many algorithms for example, can be used to look through an array to [**find the lowest value**](./lowest.js).
-
-# Algorithm Time Complexity
-
-Is the way to describe how the execution time of an algorithm grows as the input size increases.

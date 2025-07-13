@@ -8,6 +8,8 @@ Is a way to store data.
 
 Is a set of step-by-step instructions to solve a given problem or archive a specific goal.
 
+When exploring algorithms, we ofthen look at how much time an algorithm takes to run realtive size of the data set. Each algorithm has [**_time complexity_**](../Time%20Complexity/timeComplexity.md)
+
 # Fist Step
 
 <h2> Create your first algorithm!</h2>

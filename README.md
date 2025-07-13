@@ -4,12 +4,10 @@
 
 Let's check some important features:
 
-# Theory and Terminology
-
 <table>
   <thead>
     <tr>
-      <th>Term</th>
+      <th>Features</th>
       <th>Description</th>
     </tr>
   </thead>
