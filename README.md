@@ -29,7 +29,7 @@ Let's check some important features:
       <td>A measure of the amount of memory an algorithm uses, depending on the amount of data the algorithm is working on.</td>
     </tr>
     <tr>
-      <td>Big O Notation</td>
+      <td><a href="./Theory/BIgO/bigO.md">Big O Notation</td>
       <td>A mathematical notation that describes the limiting behavior of a function when the argument tends towards a particular value or infinity. Used to describe time complexity.</td>
     </tr>
     <tr>

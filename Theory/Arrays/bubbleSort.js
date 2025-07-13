@@ -5,10 +5,13 @@ let numbers = [4, 2, 3, 5, 1];
 console.log(`Unsorted: ${numbers}`); //[4, 2, 3, 5, 1];
 
 let n = numbers.length;
+// Outer loop - runs through the array multiple times
 for (let i = 0; i < n - 1; i++) {
+  // Inner loop - compares adjacent elements
   for (let j = 0; j < n - i - 1; j++) {
+    // If elements are in the wrong order, swap them
     if (numbers[j] > numbers[j + 1]) {
-      // swapped
+      // Swap operation using a temporary variable
       let temp = numbers[j];
       numbers[j] = numbers[j + 1];
       numbers[j + 1] = temp;
