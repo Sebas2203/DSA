@@ -15,15 +15,15 @@ Let's check some important features:
   </thead>
   <tbody>
     <tr>
-      <td>[Algorithm](./Theory/DSA/dsa.md)</td>
+      <td><a href="./Theory/DSA/dsa.md">Algorithm</td>
       <td>A set of step-by-step instructions to solve a specific problem.</td>
     </tr>
     <tr>
-      <td>[Data Structure](./Theory/DSA/dsa.md)</td>
+      <td><a href="./Theory/DSA/dsa.md">Data Structure</td>
       <td>A way of organizing data so it can be used efficiently. Common data structures include arrays, linked lists, and binary trees.</td>
     </tr>
     <tr>
-      <td>[Time Complexity](./Theory/Time%20Complexity/timeComplexity.md)</td>
+      <td><a href="./Theory/Time%20Complexity/timeComplexity.md">Time Complexity</td>
       <td>A measure of the amount of time an algorithm takes to run, depending on the amount of data the algorithm is working on.</td>
     </tr>
     <tr>
